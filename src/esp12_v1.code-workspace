@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "esp12_v1",
+			"path": "C:\\Users\\Ivan\\Documents\\PlatformIO\\Projects\\esp12_v1"
+		},
+		{
+			"path": "..\\..\\..\\esp32\\esp32_rtt"
+		},
+		{
+			"name": "esp8266_deepSleep",
+			"path": "c:\\Users\\Ivan\\Documents\\PlatformIO\\Projects\\esp8266_deepSleep"
+		},
+		{
+			"name": "esp8266_rtt",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"memory_resource": "cpp",
+			"sstream": "cpp",
+			"typeinfo": "cpp",
+			"thread": "cpp"
+		}
+	}
+}
