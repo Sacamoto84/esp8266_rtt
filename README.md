@@ -6,4 +6,4 @@
 Есть нюансы с приемом Broadkast пакетов для сброса
 Настройка через портал
 
-<img src="img.png" width="256"/>
+<img src="img.jpg" width="256"/>
